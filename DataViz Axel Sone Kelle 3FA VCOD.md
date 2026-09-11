@@ -1,7 +1,7 @@
 Infographies Trompeuses 
 ======  
 
-![Info marijuana](marijuana.jpg)
+![Info marijuana]("Dataviz/marijuana.jpg")
 
 Dans cette image, il y a une sous representation des 51%.
 
